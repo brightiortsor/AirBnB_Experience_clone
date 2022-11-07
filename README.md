@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A clone of the AirBnB Experience page.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
