@@ -1,4 +1,4 @@
-# A clone of the AirBnB Experience page.
+# A clone of the AirBnB Experience page using React.
 
 
 
